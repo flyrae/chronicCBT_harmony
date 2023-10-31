@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "/Users/why/.ohos/config/auto_debug_chronicCBT_harmony_com.flyrae.chroniccbt_260086000246780512.cer",
+          "storePassword": "0000001B41FC78D404B6CEA2AC2717A88B98814CD3FD121CE986C4D7D7DC90C69AD25FB422E0F44D032506",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BBE786B5289279D1D85B2D25CE650A2AE5764527A0315A966A856562EDED5E58059881778890CDF",
+          "profile": "/Users/why/.ohos/config/auto_debug_chronicCBT_harmony_com.flyrae.chroniccbt_260086000246780512.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "/Users/why/.ohos/config/auto_debug_chronicCBT_harmony_com.flyrae.chroniccbt_260086000246780512.p12"
+        }
+      }
+    ],
     "compileSdkVersion": 9,
     "compatibleSdkVersion": 9,
     "products": [

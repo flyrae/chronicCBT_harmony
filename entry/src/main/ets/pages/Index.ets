@@ -1,7 +1,16 @@
+import router from '@ohos.router';
+
 @Entry
 @Component
 struct Index {
   @State message: string = 'Hello World'
+
+  toLogIn(){
+    router.pushUrl({
+      url: 'pages/Login',
+
+    })
+  }
 
   build() {
     Row() {
@@ -9,6 +18,9 @@ struct Index {
         Text(this.message)
           .fontSize(50)
           .fontWeight(FontWeight.Bold)
+        Button('跳转s上').onClick(()=>{
+          this.toLogIn()
+        })
       }
       .width('100%')
     }
