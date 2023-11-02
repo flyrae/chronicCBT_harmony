@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c384ab-91d4-47d0-85ce-37b25d93d42c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/utils/Logger.ets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/bean/UserInfoData.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/constants/CommonConstants.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/PreferencesUtil.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/common/database/Rdb.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/sync/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.deveco/module/entry.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.deveco/module/entry.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.deveco/project.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.deveco/project.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/chronicCBT_harmony.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/chronicCBT_harmony.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build-profile.json5" beforeDir="false" afterPath="$PROJECT_DIR$/build-profile.json5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/entry/oh-package.json5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/zh_CN/element/string.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/zh_CN/element/string.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/oh-package.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/entry/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oh-package-lock.json5" beforeDir="false" afterPath="$PROJECT_DIR$/oh-package-lock.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oh_modules/.ohpm/oh_modules/@ohos/hypium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oh_modules/@ohos/hypium" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "auto_debug_bundleName": "00000025F50159A4A26A3D8B8052674D58F4EF191A365275D0C75E1AF696707C62EF323E997F418BDA700A36C3AA94874214C42A56",
-    "auto_debug_cert_list": "00000023E113219C20F54C2288FF560A19CE13D7FF1286BCFA2DB76D3B082415DC767CE112631F3B9A1CFFF6DDFAE486D651B9",
-    "auto_debug_device_list": "0000004B0820496FC2E02D13204E308E5FB27B6A542FB9AA628E8028B9AC88EC902730D7A611CF83ECDEFFC445E1C0420DA00FD010F8D922AD9A40B3247FAA4CFB7A5569ED8E2FB7FADF7BCE50D8284F169C6F94AF8996E11C3307",
-    "auto_debug_package_name": "00000025C53AA3F48EEAFA17A7BB8F2EF66E76089D4CDFF51067A2287C7EF8984DB57D0BB8EC7EF4E51DDC05A6C44DAC305B4B38A2",
-    "auto_debug_team_id": "00000022A10486E81A662A6A902F93DA5FF6415D7E601D72DEDD03E42DAD24B565EB9B549F37C41229B1BD686C7B98C6DEF7",
-    "last_opened_file_path": "/Users/why/Documents/harmony/chronicCBT_harmony"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;auto_debug_bundleName&quot;: &quot;00000025F50159A4A26A3D8B8052674D58F4EF191A365275D0C75E1AF696707C62EF323E997F418BDA700A36C3AA94874214C42A56&quot;,
+    &quot;auto_debug_cert_list&quot;: &quot;00000023E113219C20F54C2288FF560A19CE13D7FF1286BCFA2DB76D3B082415DC767CE112631F3B9A1CFFF6DDFAE486D651B9&quot;,
+    &quot;auto_debug_device_list&quot;: &quot;0000004B0820496FC2E02D13204E308E5FB27B6A542FB9AA628E8028B9AC88EC902730D7A611CF83ECDEFFC445E1C0420DA00FD010F8D922AD9A40B3247FAA4CFB7A5569ED8E2FB7FADF7BCE50D8284F169C6F94AF8996E11C3307&quot;,
+    &quot;auto_debug_package_name&quot;: &quot;00000025C53AA3F48EEAFA17A7BB8F2EF66E76089D4CDFF51067A2287C7EF8984DB57D0BB8EC7EF4E51DDC05A6C44DAC305B4B38A2&quot;,
+    &quot;auto_debug_team_id&quot;: &quot;00000022A10486E81A662A6A902F93DA5FF6415D7E601D72DEDD03E42DAD24B565EB9B549F37C41229B1BD686C7B98C6DEF7&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/why/Documents/harmony/chronicCBT_harmony&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="OpenHarmony App.entry">
     <configuration name="entry" type="HotReLoadTask" factoryName="Hot Reload">
       <SYMBOL_DIRS>[]</SYMBOL_DIRS>
@@ -108,21 +113,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="JavaScript">
-          <url>file://$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="JavaScript">
-          <url>file://$PROJECT_DIR$/entry/src/main/ets/pages/Login.ets</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

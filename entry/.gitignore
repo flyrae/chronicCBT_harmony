@@ -4,3 +4,5 @@
 /build
 /.cxx
 /.test
+/local.properties
+/oh-package.json5

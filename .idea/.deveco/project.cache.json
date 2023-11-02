@@ -2,7 +2,7 @@
 	"BuildOptions":{
 		"BUNDLE_NAME":"com.flyrae.chroniccbt",
 		"BUILD_PATH":{
-			"OUTPUT_PATH":"/Users/why/Documents/harmony/chronicCBT_harmony/build/outputs/default"
+			"OUTPUT_PATH":"D:\\develop\\harmony\\code\\chronicCBT_harmony\\build\\outputs\\default"
 		},
 		"SELECT_BUILD_PRODUCT":"default"
 	},
